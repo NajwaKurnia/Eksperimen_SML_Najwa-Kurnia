@@ -25,7 +25,7 @@ jobs:
 
       - name: Run preprocessing script
         run: |
-           python preprocessing/automate_Najwa.py
+           python preprocessing/automate_Najwa-Kurnia.py
 
       - name: Commit & Push Hasil Preprocessing
         run: |
