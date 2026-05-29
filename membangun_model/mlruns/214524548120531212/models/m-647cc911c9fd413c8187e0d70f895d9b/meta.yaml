@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/najwa/Documents/Pijak/Eksperimen_SML_Najwa Kurnia/membangun_model/mlruns/214524548120531212/models/m-647cc911c9fd413c8187e0d70f895d9b/artifacts
+creation_timestamp: 1780039135219
+experiment_id: '214524548120531212'
+last_updated_timestamp: 1780039143008
+model_id: m-647cc911c9fd413c8187e0d70f895d9b
+model_type: null
+name: model
+source_run_id: 064a7a8264004c5d9ded5914c226b4cd
+status: 2
+status_message: null

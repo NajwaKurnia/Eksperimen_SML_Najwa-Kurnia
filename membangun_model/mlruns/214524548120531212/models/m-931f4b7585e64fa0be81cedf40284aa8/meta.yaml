@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/najwa/Documents/Pijak/Eksperimen_SML_Najwa Kurnia/membangun_model/mlruns/214524548120531212/models/m-931f4b7585e64fa0be81cedf40284aa8/artifacts
+creation_timestamp: 1780039966320
+experiment_id: '214524548120531212'
+last_updated_timestamp: 1780039972111
+model_id: m-931f4b7585e64fa0be81cedf40284aa8
+model_type: null
+name: random_forest_model
+source_run_id: 8e56cdd8f1ef477e8c3958f5c5764608
+status: 2
+status_message: null

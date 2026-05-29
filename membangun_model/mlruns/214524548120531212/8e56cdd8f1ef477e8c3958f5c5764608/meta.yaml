@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/najwa/Documents/Pijak/Eksperimen_SML_Najwa Kurnia/membangun_model/mlruns/214524548120531212/8e56cdd8f1ef477e8c3958f5c5764608/artifacts
+end_time: 1780039972139
+entry_point_name: ''
+experiment_id: '214524548120531212'
+lifecycle_stage: active
+run_id: 8e56cdd8f1ef477e8c3958f5c5764608
+run_name: RandomForest_WithModel
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780039965972
+status: 3
+tags: []
+user_id: najwa

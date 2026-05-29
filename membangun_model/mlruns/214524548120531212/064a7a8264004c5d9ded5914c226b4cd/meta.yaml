@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/najwa/Documents/Pijak/Eksperimen_SML_Najwa Kurnia/membangun_model/mlruns/214524548120531212/064a7a8264004c5d9ded5914c226b4cd/artifacts
+end_time: 1780039151262
+entry_point_name: ''
+experiment_id: '214524548120531212'
+lifecycle_stage: active
+run_id: 064a7a8264004c5d9ded5914c226b4cd
+run_name: RandomForest_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780039134704
+status: 3
+tags: []
+user_id: NajwaKurnia
