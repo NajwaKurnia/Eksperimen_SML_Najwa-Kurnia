@@ -9,7 +9,7 @@ import os
 
 app = Flask(__name__)
 
-# ── Metrics ────────────────────────────────────────────────
+# Metrics 
 REQUEST_COUNT = Counter(
     'model_request_count_total',
     'Total jumlah request ke model',
